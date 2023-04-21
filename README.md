@@ -162,10 +162,10 @@ set "JAVA=%JAVA_HOME%\bin\javaw.exe"
 ```
   > 端口: 13102
   > 版本：5.0.14
-  > 密码：dlwz8702.
+  > 密码：antelop123
   > 配置文件redis.windows.conf
     > port 13102
-    > requirepass dlwz8702.
+    > requirepass antelop123
 ```
 - 5.1 caddy，前端项目接口代理，可用nginx代替，但是安装中文目录会有问题。
 ```
